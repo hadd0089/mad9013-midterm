@@ -86,9 +86,12 @@
     }
     .footer
     {
+        background-color: #FF9E14;
         font-size: 0.6rem;
         padding: 10px 10px 10px 10px;
         color: #A8680E;
+        text-align:center;
+        padding: 5px;
     }
     img
     {
@@ -183,10 +186,13 @@
     }
     .footer
     {
+        background-color: #FF9E14;
         font-size: 0.8rem;
         padding: 10px 10px 10px 10px;
         clear: both;
         color: #6B4209;
+        text-align:center;
+        padding: 5px;
     }
     img
     {
