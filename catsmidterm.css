@@ -88,8 +88,9 @@
     {
         background-color: #FF9E14;
         font-size: 0.6rem;
+        max-width: 100%;
         padding: 10px 10px 10px 10px;
-        color: #A8680E;
+        color: #6B4209;
         text-align:center;
         padding: 5px;
     }
